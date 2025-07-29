@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem152_LargeFactorial {
+public class HundredFiftyTwo{
     public static void main(String[] args) {
         int n = 10;
         List<Integer> result = factorial(n);
