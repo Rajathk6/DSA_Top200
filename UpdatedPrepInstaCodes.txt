@@ -168,8 +168,3 @@
 168. Find Median in a Row-Wise Sorted Matrix  
 169. Find Row with Maximum Number of 1’s  
 170. Print Elements in Sorted Order Using Row-Column Wise Sorted Matrix  
-171. Find a Specific Pair in a Matrix  
-172. Rotate Matrix by 90 Degrees  
-173. Kth Smallest Element in a Row-Column Wise Sorted Matrix  
-174. Common Elements in All Rows of a Given Matrix
-175. Missing Number in an Array
